@@ -1,4 +1,4 @@
-A global command which can be used to either oraginze the files in a directory or to just view the files hierarchy in a particular directory.
+A global command which can be used to either oraginze the files according to their file types in a directory or to just view the files hierarchy in a particular directory.
 
 
 
